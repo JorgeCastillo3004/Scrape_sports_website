@@ -1,6 +1,6 @@
 # Tipsport Sports Website Scraper
 
-[![Tipsport Website]](https://www.tipsport.sk)
+[!https://www.tipsport.sk](https://www.tipsport.sk)
 
 
 The Tipsport Sports Website Scraper is a Python script designed to extract sports-related information from the Tipsport website. This script provides an easy way to gather data on sports events, odds, and results for analysis and reporting purposes.
